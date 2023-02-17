@@ -10,6 +10,7 @@ public class UniteTest {
 		int c = a+b; 
 		
 		System.out.println(c);
+		System.out.println("ali is 21 years old");
 	}
 
 }
